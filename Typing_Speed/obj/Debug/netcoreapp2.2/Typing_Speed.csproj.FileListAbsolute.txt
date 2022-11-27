@@ -1,0 +1,13 @@
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\bin\Debug\netcoreapp2.2\Typing_Speed.deps.json
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\bin\Debug\netcoreapp2.2\Typing_Speed.runtimeconfig.json
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\bin\Debug\netcoreapp2.2\Typing_Speed.runtimeconfig.dev.json
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\bin\Debug\netcoreapp2.2\Typing_Speed.dll
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\bin\Debug\netcoreapp2.2\Typing_Speed.pdb
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.csproj.AssemblyReference.cache
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.AssemblyInfoInputs.cache
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.AssemblyInfo.cs
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.csproj.CoreCompileInputs.cache
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.dll
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.pdb
+C:\Users\volod\Desktop\Typing_Speed\Typing_Speed\obj\Debug\netcoreapp2.2\Typing_Speed.genruntimeconfig.cache

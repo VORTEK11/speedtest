@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Typing_Speed/1.0.0": {
+        "runtime": {
+          "Typing_Speed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Typing_Speed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
